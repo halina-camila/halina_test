@@ -1,4 +1,5 @@
-# Halina Test Repo
+# Halina and Camila Project
+
 Test repo for git / github lesson
 
 # Purpose
