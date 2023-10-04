@@ -1,4 +1,4 @@
-# halina_test
+# Halina Test Repo
 Test repo for git / github lesson
 
 # Purpose
